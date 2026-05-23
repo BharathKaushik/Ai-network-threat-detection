@@ -1,0 +1,11 @@
+packet_size,protocol,connection_rate,label
+120,TCP,5,Normal
+130,TCP,7,Normal
+2000,TCP,5000,DDoS
+1800,UDP,4500,DDoS
+90,ICMP,3,Normal
+2500,TCP,7000,DDoS
+110,UDP,4,Normal
+3000,TCP,9000,DDoS
+100,ICMP,2,Normal
+2700,UDP,8000,DDoS
